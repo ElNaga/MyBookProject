@@ -2,4 +2,4 @@ This is the second chapter.
 
 This is new text in the chapter2 branch.
 
-Text added in main branch.
+Text added in chapter 2 branch.
